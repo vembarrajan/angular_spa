@@ -110,5 +110,5 @@ src/assets/images/logo96x96.png
 src/assets/images/logo_dark96x96.png
 src/app/core/theming/fuse-themes.constant.js
 src/app/AppName.js
-src/index.html
+# src/index.html
 src/others/favicon.ico

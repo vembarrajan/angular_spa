@@ -1,7 +1,10 @@
 {
   "name": "fuse",
   "version": "1.4.3",
-  "dependencies": {},
+  "dependencies": {
+    "single-spa-angularjs": "^4.1.0",
+    "single-spa": "^5.3.4"
+  },
   "scripts": {
     "test": "gulp test",
     "preinstall": "npx npm-force-resolutions",
